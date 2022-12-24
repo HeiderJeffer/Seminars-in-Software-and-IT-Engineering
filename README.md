@@ -3,7 +3,7 @@ Free University of Bozen-Bolzano - Faculty of Computer Science
 - Dominikanerplatz 3 - piazza Domenicani, 3
 - Italy - 39100, Bozen-Bolzano
 
-*UNIBZ Roomfinder 
+UNIBZ Roomfinder 
 *Finding  Available Room to Study
 *Project Documentation by:
 
