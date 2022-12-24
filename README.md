@@ -23,7 +23,7 @@ gabriele.minneci@gmail.com
 hheider.jeffer@gmail.com 
 - Srishti Gaihre
 Srishti.kristi12@gmail.com 
-*Document Status: Final Documentation
+* Document Status: Final Documentation
 - Date(s) : December 18th, 2017
 - Version : 2.0
 
