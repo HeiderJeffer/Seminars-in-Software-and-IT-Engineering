@@ -68,5 +68,26 @@ Show available rooms at a given point in time
 ![alt text](https://github.com/HeiderJeffer/Project-for-Seminars-in-Software-and-IT-Engineering/blob/main/image/2.png)
 
 
+# Software Design
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Seminars-in-Software-and-IT-Engineering/blob/main/image/3.png)
+
+# Software Tools 
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Seminars-in-Software-and-IT-Engineering/blob/main/image/4.png)
+
+# Now we show a short DEMO 
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Seminars-in-Software-and-IT-Engineering/blob/main/image/5.png)
+
+
+
+
+
+
+
+
+
+
  
 
