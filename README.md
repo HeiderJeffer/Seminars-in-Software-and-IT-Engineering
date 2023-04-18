@@ -65,7 +65,7 @@ Show available rooms at a given point in time
  
 # Software Architecture 
 
-
+![alt text](https://github.com/HeiderJeffer/Project-for-Seminars-in-Software-and-IT-Engineering/blob/main/image/2.png)
 
 
  
