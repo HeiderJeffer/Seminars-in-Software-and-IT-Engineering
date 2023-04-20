@@ -1,4 +1,4 @@
-# Project for Seminars in Software and IT Engineering
+# Seminars in Software and IT Engineering
 Free University of Bozen-Bolzano - Faculty of Computer Science
 - Dominikanerplatz 3 - piazza Domenicani, 3
 - Italy - 39100, Bozen-Bolzano
