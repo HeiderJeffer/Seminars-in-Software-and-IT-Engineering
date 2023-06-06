@@ -1,7 +1,12 @@
 # Seminars in Software and IT Engineering
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Seminars-in-Software-and-IT-Engineering/" alt = "Visitors-Counter"/>
+</body>
+
+
 Free University of Bozen-Bolzano - Faculty of Computer Science
-- Dominikanerplatz 3 - piazza Domenicani, 3
-- Italy - 39100, Bozen-Bolzano
+
 
 - UNIBZ Roomfinder 
 * Finding  Available Room to Study
